@@ -1,6 +1,4 @@
-# Celo Camp
-
-Welcome to Celo Camp.
+# Welcome to Celo Camp 👋
 
 Whether you are an existing web3 developer or completely new to Celo, we hope this short guide 
 will help you decide what developer tools to use during Celo Camp.
