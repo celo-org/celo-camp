@@ -30,11 +30,15 @@ If you'd like to learn more, visit [Web2 to Web3 - The Anatomy of a dApp][anatom
 
 ## Comparison
 
+### EVM SDKs
+
 | EVM SDKs  | Celo | other EVMs | Language | Description |
 |----------|----------|------|-------|--------|
 | [Ethers](https://docs.ethers.org/) (recommended✨) | ✅ | ✅ | JavaScript/Typescript |  Popular client library maintained by [ricmoo](https://github.com/ricmoo) |
 | [web3.js](https://web3js.readthedocs.io/) | ✅ | ✅ | JavaScript/Typescript | |
 | [contractkit](https://docs.celo.org/developer/contractkit) | ✅ | ❌ | JavaScript/Typescript | Specialized Celo library maintained by [cLabs](https://clabs.co/) |
+
+### Front-end SDKs
 
 |  Front-end SDKs  | Celo | other EVMs | Framework | Description |
 |----------|----------|------|-------|--------|
@@ -43,6 +47,17 @@ If you'd like to learn more, visit [Web2 to Web3 - The Anatomy of a dApp][anatom
 | [react-celo](https://github.com/celo-org/react-celo) | ✅ | ❌ | React | Specialized Celo library maintained by  [cLabs](https://clabs.co/) |
 
 Learn more about web3 front-ends in [Example architectures for a simple payment dapp][example app].
+
+### Celo networks
+
+|  Blockchain  | Description |
+|--------------|-------------|
+| [Alfajores](https://docs.celo.org/network/alfajores) (recommended✨) | Celo's test network for developers to test their applications. |
+| [Mainnet](https://docs.celo.org/network/mainnet)| Celo's production network |
+
+Get testnet tokens at [faucet.celo.org](https://faucet.celo.org/) to start building on Alfajores. 
+
+### Node providers
 
 |  Node provider  | Celo | other EVMs | Description |
 |----------|----------|------|--------|
@@ -61,12 +76,7 @@ Alfajores = 'https://alfajores-forno.celo-testnet.org'
 Mainnet = 'https://forno.celo.org'
 ```
 
-|  Blockchain  | Description |
-|--------------|-------------|
-| [Alfajores](https://docs.celo.org/network/alfajores) (recommended✨) | Celo's test network for developers to test their applications. |
-| [Mainnet](https://docs.celo.org/network/mainnet)| Celo's production network |
 
-Get testnet tokens at [faucet.celo.org](https://faucet.celo.org/) to start building on Alfajores. 
 
 <!-- References -->
 [anatomy of a dapp]: https://docs.celo.org/general/web2-to-web3
