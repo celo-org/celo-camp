@@ -5,9 +5,13 @@ will help you decide what developer tools to use during Celo Camp.
 
 ## Technical Questions 💬
 
-If you have technical questions during camp, we recommend you start a [Github Discussion](https://github.com/celo-org/celo-camp/discussions) in this repository. Please try to provide as much context as 
-possible including code snippets or links to public repositories where possible. A member of Celo's 
-develope relations team or someone from the community will respond with guidance or next steps.
+If you have technical questions during Celo Camp, we recommend you start a 
+[Github Discussion](https://github.com/celo-org/celo-camp/discussions) 
+in this repository.
+
+Please try to provide as much context as possible including code snippets or links to public 
+repositories where possible. A member of Celo's developer relations team or someone from 
+the community will respond with guidance or next steps.
 
 Alternatively, you can refer to Celo's public [Discord server](http://chat.celo.org/).
 
@@ -15,6 +19,7 @@ Alternatively, you can refer to Celo's public [Discord server](http://chat.celo.
 |-----------------------|-----------------------|-------------|
 | [Github Discussion](https://github.com/celo-org/celo-camp/discussions) (recommended ✨) | 1-2 days | Long-form (possibly) higher quality responses |
 | [Celo Discord](http://chat.celo.org/) | <1 day | Short-form (possibly) lower quality responses |
+
 ## TLDR
 
 Here is a simplified mental model to think about web applications on Celo.
