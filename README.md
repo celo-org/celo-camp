@@ -17,7 +17,7 @@ Alternatively, you can refer to Celo's public [Discord server](http://chat.celo.
 
 | Communication channel | Average response time | Expectation |
 |-----------------------|-----------------------|-------------|
-| [Github Discussion](https://github.com/celo-org/celo-camp/discussions) (recommended ✨) | 1-2 days | Long-form (possibly) higher quality responses |
+| [Github Discussion](https://github.com/celo-org/celo-camp/discussions) - recommended✨ | 1-2 days | Long-form (possibly) higher quality responses |
 | [Celo Discord](http://chat.celo.org/) | <1 day | Short-form (possibly) lower quality responses |
 
 ## TLDR
@@ -32,13 +32,13 @@ If you'd like to learn more, visit [Web2 to Web3 - The Anatomy of a dApp][anatom
 
 | EVM SDKs  | Celo | other EVMs | Language | Description |
 |----------|----------|------|-------|--------|
-| [Ethers](https://docs.ethers.org/) (recommended ✨) | ✅ | ✅ | JavaScript/Typescript |  Popular client library maintained by [ricmoo](https://github.com/ricmoo) |
+| [Ethers](https://docs.ethers.org/) - recommended✨ | ✅ | ✅ | JavaScript/Typescript |  Popular client library maintained by [ricmoo](https://github.com/ricmoo) |
 | [web3.js](https://web3js.readthedocs.io/) | ✅ | ✅ | JavaScript/Typescript | |
 | [contractkit](https://docs.celo.org/developer/contractkit) | ✅ | ❌ | JavaScript/Typescript | Specialized Celo library maintained by [cLabs](https://clabs.co/) |
 
 |  Front-end SDKs  | Celo | other EVMs | Framework | Description |
 |----------|----------|------|-------|--------|
-| [Rainbowkit](https://github.com/celo-org/rainbowkit-celo) (recommended ✨) | ✅ | ✅ | React | Popular front-end library maintained by [Rainbow Wallet](https://rainbow.me/) |
+| [Rainbowkit](https://github.com/celo-org/rainbowkit-celo) - recommended✨ | ✅ | ✅ | React | Popular front-end library maintained by [Rainbow Wallet](https://rainbow.me/) |
 | [web3-react](https://github.com/Uniswap/web3-react) | ✅ | ✅ | React | Front-end library maintained by [Uniswap](https://uniswap.org/) |
 | [react-celo](https://github.com/celo-org/react-celo) | ✅ | ❌ | React | Specialized Celo library maintained by  [cLabs](https://clabs.co/) |
 
@@ -46,7 +46,7 @@ Learn more about web3 front-ends in [Example architectures for a simple payment 
 
 |  Node provider  | Celo | other EVMs | Description |
 |----------|----------|------|--------|
-| [Forno](https://docs.celo.org/network/node/forno#forno-networks) (recommended ✨) | ✅ | ❌ | Free RPC API on Celo maintained by [cLabs](https://clabs.co/) |
+| [Forno](https://docs.celo.org/network/node/forno#forno-networks) - recommended✨ | ✅ | ❌ | Free RPC API on Celo maintained by [cLabs](https://clabs.co/) |
 | [Infura](https://www.infura.io/) | ✅ | ✅ | Paid multi-chain RPC API maintained by [Consensys](https://consensys.net/) |
 | [Quicknode](https://www.quicknode.com/chains/celo) | ✅ | ✅ | Paid multi-chain RPC API maintained by [Quicknode](https://www.quicknode.com/chains/celo) |
 | [Tatum](https://pages.tatum.io/celo) | ✅ | ✅ | Paid multi-chain RPC API maintained by [Tatum](https://pages.tatum.io/celo) |
@@ -63,7 +63,7 @@ Mainnet = 'https://forno.celo.org'
 
 |  Blockchain  | Description |
 |--------------|-------------|
-| [Alfajores](https://docs.celo.org/network/alfajores) (recommended ✨) | Celo's test network for developers to test their applications. |
+| [Alfajores](https://docs.celo.org/network/alfajores) - recommended✨ | Celo's test network for developers to test their applications. |
 | [Mainnet](https://docs.celo.org/network/mainnet)| Celo's production network |
 
 Get testnet tokens at [faucet.celo.org](https://faucet.celo.org/) to start building on Alfajores. 
