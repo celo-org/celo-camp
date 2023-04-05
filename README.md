@@ -50,10 +50,10 @@ Learn more about web3 front-ends in [Example architectures for a simple payment 
 
 ### Celo networks
 
-|  Blockchain  | Description |
-|--------------|-------------|
-| [Alfajores](https://docs.celo.org/network/alfajores) (recommended✨) | Celo's test network for developers to test their applications. |
-| [Mainnet](https://docs.celo.org/network/mainnet)| Celo's production network |
+|  Blockchain  | Chain ID | Description |
+|--------------|-----------|-------------|
+| [Alfajores](https://docs.celo.org/network/alfajores) (recommended✨) | [`44787`](https://chainlist.org/chain/44787) | Celo's test network for developers to test their applications. |
+| [Mainnet](https://docs.celo.org/network/mainnet)| [`42220`](https://chainlist.org/chain/42220) | Celo's production network |
 
 Get testnet tokens at [faucet.celo.org](https://faucet.celo.org/) to start building on Alfajores. 
 
