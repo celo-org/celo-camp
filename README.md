@@ -20,6 +20,10 @@ Alternatively, you can refer to Celo's public [Discord server](http://chat.celo.
 | [Github Discussion](https://github.com/celo-org/celo-camp/discussions) (recommended✨) | 1-2 days | Long-form (possibly) higher quality responses |
 | [Celo Discord](http://chat.celo.org/) | <1 day | Short-form (possibly) lower quality responses |
 
+## Showcase your open source project ✨
+
+👉 If you are participating in Celo Camp, please (!) share a link to your public Github repository here: **[[List] Showcase your open source project](https://github.com/celo-org/celo-camp/discussions/2)** ✅
+
 ## TLDR
 
 Here is a simplified mental model to think about web applications on Celo.
